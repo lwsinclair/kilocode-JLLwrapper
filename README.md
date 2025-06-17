@@ -1,2 +1,4 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/garry-brittain-kilocode-jllwrapper-badge.png)](https://mseep.ai/app/garry-brittain-kilocode-jllwrapper)
+
 # kilocode-JLLwrapper
 Personal copy of the Kilocode project with GitHub MCP server and JLL wrapper setup.
